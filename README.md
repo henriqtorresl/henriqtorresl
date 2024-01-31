@@ -2,7 +2,13 @@
   Olá, seja bem-vindo(a) 👋
 </h1>
 <p align='center'>
-  👨‍💻 Sou o Henrique Torres, Desenvolvedor Full Stack no Grupo ICTS e estudante de Engenharia de Software na Universidade de Brasília, buscando aprimorar continuamente minhas habilidades e conhecimentos.
+  👨‍💻 Sou o Henrique Torres, Desenvolvedor Full Stack no 
+  <a 
+    href="https://www.grupoicts.com.br/quem-somos.html"
+  >
+    Grupo ICTS
+  </a> 
+  e estudante de Engenharia de Software na Universidade de Brasília, buscando aprimorar continuamente minhas habilidades e conhecimentos.
 </p>
 
  &nbsp;
