@@ -11,8 +11,6 @@
   e estudante de Engenharia de Software na Universidade de Brasília, buscando aprimorar continuamente minhas habilidades e conhecimentos.
 </p>
 
- &nbsp;
-
 ## Skills
 
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
@@ -23,12 +21,10 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-&nbsp;
-
-## Contacts:
+## Contacts
 
 <div> 
-  <p align="left">
+  <p align="center">
     <a href="https://www.linkedin.com/in/henrique-torres-a08a36243/" target="blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
