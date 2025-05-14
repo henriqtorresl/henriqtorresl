@@ -5,9 +5,9 @@
 
 <div align="center" >
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,nodejs,express,nest,java,docker,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,express,nest,postgres,mysql,mongodb,linux" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,linux,angular,react,next,vite,tailwind,sass,css,html" />
+  <img src="https://skillicons.dev/icons?i=git,docker,angular,react,next,vite,tailwind,sass,css,html" />
   </a>
 </div>
 
