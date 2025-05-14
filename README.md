@@ -1,31 +1,18 @@
-<h1 align='center'>
-  Olá, seja bem-vindo(a) 👋
-</h1>
-<p align='center'>
-  👨‍💻 Sou o Henrique Torres, Desenvolvedor Full Stack na INEO
-  e estudante de Engenharia de Software na Universidade de Brasília, buscando aprimorar continuamente minhas habilidades e conhecimentos.
-</p>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align='center'>
-  <a 
-    href="https://henrique-dev-portifolio.vercel.app/home"
-  >
-    Meu portifólio
-  </a> 
-</p>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henriqtorresl&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriqtorresl&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## Contacts
-
-<div> 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/henrique-torres-a08a36243/" target="blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://instagram.com/henriqtorresl" target="blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <div align="center" >
+    <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,nodejs,express,nest,java,docker,postgres,mysql,mongodb,linux,angular,react,next,vite,tailwind,sass,css,html" />
     </a>
-    <a href="mailto:henriquetlandin@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  </p>
-</div>
+  <br />
+
+  </div>
+
+##
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=henriqtorresl&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
