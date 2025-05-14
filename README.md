@@ -2,7 +2,7 @@
   Olá, seja bem-vindo(a) 👋
 </h1>
 <p align='center'>
-  👨‍💻 Sou o Henrique Torres, Desenvolvedor Full Stack 
+  👨‍💻 Sou o Henrique Torres, Desenvolvedor Full Stack na INEO
   e estudante de Engenharia de Software na Universidade de Brasília, buscando aprimorar continuamente minhas habilidades e conhecimentos.
 </p>
 
